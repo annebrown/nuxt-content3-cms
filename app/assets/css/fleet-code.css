@@ -1,0 +1,8 @@
+/******************************************************************************/
+/*
+/* Syntax Highlighting
+/*
+/******************************************************************************/
+.shiki { @apply w-fit text-xs/5;}
+code { @apply w-fit p-1 text-wrap text-xs/4 rounded-lg bg-(--ab-water); }
+pre { @apply inline-block w-full mr-4 mb-4 p-2 text-wrap rounded-lg bg-(--ab-water) ring-1 ring-(--ui-primary);}
