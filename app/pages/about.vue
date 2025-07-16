@@ -34,7 +34,7 @@
         </span>
 
         <ULink 
-            to="https://github.com/annebrown.ca/nuxt-content3-cms" 
+            to="https://github.com/annebrown/nuxt-content3-cms" 
             class="inline-block m-0 -mt-3 p-0 pt-2 pl-4"
         >
             Code 
